@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ck496
 - 👀 I’m interested in ...
-  - AI and web and mobile app development
+  - AI and Cloud Computing
 
 <!---
 ck496/ck496 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
